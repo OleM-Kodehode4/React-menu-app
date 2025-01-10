@@ -12,7 +12,7 @@
     "preview": "vite preview",
     "start": "react-scripts start"
   },
-  "homepage": "https://OleM-Kodehode4.github.io/kodehode/React/react-menu-app",
+  "homepage": "https://OleM-Kodehode4.github.io/React-menu-app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
